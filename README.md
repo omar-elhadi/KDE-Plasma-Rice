@@ -8,12 +8,12 @@ A comprehensive guide and showcase of my KDE Plasma customization setup on Tuxed
 
 | Environment | Description |
 |-------------|-------------|
-| ![Home screen with Konsole terminal](assets/home-konsole.png) | Home screen with Konsole terminal |
-| ![Code development environment](assets/code.png) | Code development environment |
-| ![Multi-window Dolphin file manager](assets/multi-dolphin.png) | Multi-window Dolphin file manager |
-| ![Multiple terminal sessions](assets/multi-konsole.png) | Multiple terminal sessions |
-| ![Media player integration](assets/player.png) | Media player integration |
-| ![System monitoring and statistics](assets/stats.png) | System monitoring and statistics |
+| ![Home screen with Konsole terminal](assets/home-konsole.webp) | Home screen with Konsole terminal |
+| ![Code development environment](assets/code.webp) | Code development environment |
+| ![Multi-window Dolphin file manager](assets/multi-dolphin.webp) | Multi-window Dolphin file manager |
+| ![Multiple terminal sessions](assets/multi-konsole.webp) | Multiple terminal sessions |
+| ![Media player integration](assets/player.webp) | Media player integration |
+| ![System monitoring and statistics](assets/stats.webp) | System monitoring and statistics |
 
 ## 🎨 Theme Configuration
 

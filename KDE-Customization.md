@@ -9,7 +9,7 @@ This document details my current KDE Plasma setup on Tuxedo OS, featuring Catppu
 - **Source**: [Wallpapers Wide - Sci-Fi Girl Boy Travel](https://wallpaperswide.com/sci_fi_girl_boy_travel_exploring_planet_purple-wallpapers.html)
 - **Theme**: Sci-Fi exploration theme with purple accents
 
-![Home screen with Konsole terminal and Sci-Fi wallpaper](assets/home-konsole.png)
+![Home screen with Konsole terminal and Sci-Fi wallpaper](assets/home-konsole.webp)
 
 ### Color Theme
 - **Primary**: Catppuccin Mocha Flamingo [KDE Store](https://store.kde.org/p/1921998)
@@ -82,19 +82,19 @@ This document details my current KDE Plasma setup on Tuxedo OS, featuring Catppu
 ## 🈸 Application Screenshots
 
 ### Code Development Environment
-![Code development environment](assets/code.png)
+![Code development environment](assets/code.webp)
 
 ### Multi-Window Workflow
-![Multi-window Dolphin file manager](assets/multi-dolphin.png)
+![Multi-window Dolphin file manager](assets/multi-dolphin.webp)
 
 ### Terminal Setup
-![Multiple Konsole terminal sessions](assets/multi-konsole.png)
+![Multiple Konsole terminal sessions](assets/multi-konsole.webp)
 
 ### Media Player Integration
-![Media player integration](assets/player.png)
+![Media player integration](assets/player.webp)
 
 ### System Statistics
-![System monitoring and statistics](assets/stats.png)
+![System monitoring and statistics](assets/stats.webp)
 
 ## 🚀 Performance & System Information 
 
